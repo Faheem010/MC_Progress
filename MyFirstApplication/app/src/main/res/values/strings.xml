@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">My First Application</string>
     <string name="i_m_faheem">I\'m Faheem</string>
+    <string name="faheem">Faheem</string>
+    <string name="lahore">Lahore</string>
+    <string name="save">Save</string>
+    <string name="name">Name</string>
+    <string name="city">City</string>
 </resources>
